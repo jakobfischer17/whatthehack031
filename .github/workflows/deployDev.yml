@@ -12,4 +12,4 @@ jobs:
     - uses: azure/arm-deploy@v1
       with:
         resourceGroupName: whatthehack031
-        template: ../../ARM-Templates/container-webapp-template.json
+        template: ARM-Templates/container-webapp-template.json
